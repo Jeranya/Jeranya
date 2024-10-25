@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Jeranya
+- 👀 I’m interested in coding and coffe
+- 🌱 I’m currently expanding my skills in fullstack development, with a primary focus on frontend
+- 💞️ I’m looking to collaborate on anything and everywhere I can apply my skills
+- 📫 How to reach me: jeranya.mekmork@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Learned coding through a dare, stayed for the passion
